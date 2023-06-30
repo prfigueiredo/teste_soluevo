@@ -1,3 +1,8 @@
+# Apresentação da Interface
+
+[![Nome do Vídeo](https://img.youtube.com/vi/uvyrwhbZLCw/0.jpg)](https://youtu.be/uvyrwhbZLCw)
+
+
 # Objetivo do aplicativo:
 O objetivo do aplicativo é contar o número de ocorrências de uma mesma palavra escrita pelo usuário no campo de texto da interface.
 *OBS: É feita a diferenciação entre palavras maiúsculas e minúsculas - Ex: "Paulo" é diferente de "paulo".
